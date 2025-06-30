@@ -1,0 +1,1 @@
+g++ -o nrccpp main.cpp NrcDevice.cpp -lws2_32
